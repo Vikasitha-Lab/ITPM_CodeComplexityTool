@@ -1,2 +1,4 @@
 # ITPM_CodeComplexityTool
-In this contain all project folders and Application(.exe) file.
+In this contain Full project folders, Application(.exe) file and Group details.
+
+# ITPM_WD_12
